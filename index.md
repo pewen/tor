@@ -20,3 +20,9 @@ Estas interrogantes son habituales cuando se quiere instalar un Nodo de Salida d
 
 ##### Ref:
 [Proyecto Tor](https://www.torproject.org)
+
+[Torifícate](https://tor.derechosdigitales.org)
+
+[¿Quién necesita anonimato en Internet?](https://tor.derechosdigitales.org/materiales/materiales/quien_necesita_tor.png)
+
+
