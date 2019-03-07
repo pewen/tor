@@ -19,9 +19,9 @@ Estas interrogantes son habituales cuando se quiere instalar un Nodo de Salida d
 
 ##### Presentación a cargo del Dr. Rodrigo Iglesias (abogado e investigador de la UBA)
 
-##### Lugar: Ojo de Barro (Bolovar 373, Río Cuarto)
+##### Lugar: Ojo de Barro (Bolivar 373, Río Cuarto)
 
-##### Fecha y horario: (a definir)
+##### Fecha y horario: marzo 2019 (a definir en breve)
 
 ###### Coordina la actividad: Daniel Bellomo
 
