@@ -6,6 +6,10 @@ Instalar un Nodo de Salida de Tor es sencillo, pero sabemos que responsabilidad 
 
 ##### Presentación a cargo del Dr. Rodrigo Iglesias (abogado e investigador de la UBA)
 
+##### Lugar: Ojo de Barro (Bolovar 373, Río Cuarto)
+
+##### Fecha y horario: (a definir)
+
 ###### Coordina la actividad: Daniel Bellomo
 
 ![](Tor-logo.svg)
