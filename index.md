@@ -25,8 +25,6 @@ Estas interrogantes son habituales cuando se quiere instalar un Nodo de Salida d
 
 ###### Coordina la actividad: Daniel Bellomo
 
-![](Tor-logo.svg)
-
 ##### Ref:
 [Proyecto Tor](https://www.torproject.org)
 
@@ -35,3 +33,5 @@ Estas interrogantes son habituales cuando se quiere instalar un Nodo de Salida d
 [¿Quién necesita anonimato en Internet?](https://tor.derechosdigitales.org/materiales/materiales/quien_necesita_tor.png)
 
 [¿Por qué me vigilan, si no soy nadie? | Marta Peirano](https://hooktube.com/watch?v=NPE7i8wuupk)
+
+![](Tor-logo.svg)
