@@ -6,11 +6,14 @@ Muchas veces se asocia anonimato a comportamientos indeseables o incluso ilegale
 
 ##### Tor es una herramienta que permite ocultar nuestra identidad cuando navegamos en Internet.
 
+![](quienes_usan_tor.jpg)
+
 #### Reseña
 
-Instalar un Nodo de Salida de Tor es sencillo, pero sabemos que responsabilidad legal conlleva?
+Instalar un Nodo de Salida de Tor es sencillo, pero
 
-> **¿defensa de derechos constitucionales o participe necesario de un delito?**
+> ¿sabemos que responsabilidad legal conlleva?  
+> ¿defensa de derechos constitucionales o participe necesario de un delito?
 
 Estas interrogantes son habituales cuando se quiere instalar un Nodo de Salida de Tor, existen muchísimos mitos y las legislaciones son distintas en cada País, por eso el análisis pormenorizado de estas cuestiones son necesarias, además en Argentina ya contamos con jurisprudencia sobre el caso.
 
@@ -31,4 +34,4 @@ Estas interrogantes son habituales cuando se quiere instalar un Nodo de Salida d
 
 [¿Quién necesita anonimato en Internet?](https://tor.derechosdigitales.org/materiales/materiales/quien_necesita_tor.png)
 
-
+[¿Por qué me vigilan, si no soy nadie? | Marta Peirano](https://hooktube.com/watch?v=NPE7i8wuupk)
