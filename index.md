@@ -1,5 +1,11 @@
 # Responsabilidad legal en nodos de salida de Tor
 
+#### ¿Quién necesita anonimato en Internet?
+
+Muchas veces se asocia anonimato a comportamientos indeseables o incluso ilegales. Sin embargo, el **anonimato** garantiza el derecho a expresarnos y a reunirnos, a la protesta social y la disidencia política; nos permite acceder a información en contextos represivos y es una alternativa para quienes requieren investigar sin ser estigmatizados por indagar en un tema particular.
+
+##### Tor es una herramienta que permite ocultar nuestra identidad cuando navegamos en Internet.
+
 #### Reseña
 
 Instalar un Nodo de Salida de Tor es sencillo, pero sabemos que responsabilidad legal conlleva?
