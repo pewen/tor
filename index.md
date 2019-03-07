@@ -4,11 +4,11 @@
 
 Muchas veces se asocia anonimato a comportamientos indeseables o incluso ilegales. Sin embargo, el **anonimato** garantiza el derecho a expresarnos y a reunirnos, a la protesta social y la disidencia política; nos permite acceder a información en contextos represivos y es una alternativa para quienes requieren investigar sin ser estigmatizados por indagar en un tema particular.
 
-##### Tor es una herramienta que permite ocultar nuestra identidad cuando navegamos en Internet.
+> Tor es una herramienta que permite ocultar nuestra identidad cuando navegamos en Internet.
 
 ![](quienes_usan_tor.jpg)
 
-#### Reseña
+#### Reseña de la presentación
 
 Instalar un Nodo de Salida de Tor es sencillo, pero
 
