@@ -1,5 +1,7 @@
+TITLE = "Responsabilidad legal en nodos Tor"
+
 all: html
 
 html: index.html
 index.html: pandoc-dark.css index.md
-	pandoc --css pandoc-dark.css index.md -o index.html
+	pandoc -T $(TITLE) --css pandoc-dark.css index.md -o index.html
