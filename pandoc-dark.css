@@ -105,7 +105,8 @@ h6 {
 }
 
 blockquote {
-  color: #666666;
+    // color: #666666;
+    color: #b0e0e6;
   margin: 0;
   padding-left: 3em;
   border-left: 0.5em #EEE solid;
