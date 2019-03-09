@@ -1,6 +1,6 @@
 html,body {
-    font-family: 'Open Sans', serif;
-    background-color: hsl(0, 0%, 95%);
+    // font-family: 'Open Sans', serif;
+    background-color: hsl(0, 0%, 93%);
 }
 .hero.is-info {
     background: linear-gradient(
@@ -21,5 +21,8 @@ html,body {
   line-height: 1.5;
 }
 .footer {
-    background-color: hsl(0, 0%, 95%);
+    background-color: hsl(0, 0%, 93%);
+}
+.image {
+    background-color: hsl(0, 0%, 93%);
 }
