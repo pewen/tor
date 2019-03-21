@@ -31,5 +31,6 @@ html,body {
   background-size:cover;
 }
 .message-body {
-    background-color: hsl(0, 0%, 93%);
+    /* background-color: hsl(0, 0%, 93%); */
+    background-color: #dbfaf4;
 }
